@@ -380,6 +380,8 @@ header .header-content img {
   }
   header .header-content img {
     margin-top: 2rem;
+    max-width: 280px;
+    margin: auto;
   }
   #about h2,
 #skills h2,
